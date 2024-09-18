@@ -111,13 +111,15 @@ Execute the Notebook:
 
 Run each cell sequentially to reproduce the results.
 Ensure the dataset is placed in the correct directory or adjust the file paths accordingly.
-Project Structure
+
+### Project Structure
 Uber and Lyft.ipynb: The main Jupyter Notebook containing the code, analysis, and visualizations.
 requirements.txt: A list of required Python packages.
 data/: Directory where the dataset is stored (ensure the dataset is placed here).
 images/: Contains any images or plots generated during the analysis (if applicable).
 README.md: This Readme file.
-License
+
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Feel free to contribute to this project by submitting issues or pull requests. Your feedback is valuable and helps improve the analysis and modeling approach.
@@ -125,3 +127,4 @@ Feel free to contribute to this project by submitting issues or pull requests. Y
 Contact Information:
 
 Author: Vincent Dao
+Email: vinhdao2500@gmail.com
